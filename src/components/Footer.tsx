@@ -41,7 +41,7 @@ const Footer: React.FC = () => {
                 <div className='glass border-b border-t border-white rounded-lg text-center py-5 md:py-7 px-5 md:px-10'>
                     <h1 className='text-white text-[22px] md:text-[26px] font-bold'>Bepul konsultatsiya</h1>
                     <p className='text-white text-sm md:text-base mt-2'>
-                        Loyihangiz bo’yicha boshlang’ich bepul konsultatsiya uchun ma’lumotingizni qoldiring.
+                        Loyihangiz bo'yicha boshlang'ich bepul konsultatsiya uchun ma'lumotingizni qoldiring.
                     </p>
 
                     <input

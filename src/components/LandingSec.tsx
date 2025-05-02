@@ -45,8 +45,8 @@ const LandingSection = () => {
 
                     <div className="text-sm text-gray-300 mb-4">
                         <p>Texnik vazifa tayyorlab berish: <b>1 kun</b></p>
-                        <p>Sayt sahifalar soni: <b>1</b> (har bir sahifa minimum 5 ta qismdan iborat bo’ladi.)</p>
-                        <p>Veb Dizayn: <b>10–15 soatlik mehnat.</b></p>
+                        <p>Sayt sahifalar soni: <b>1</b> (har bir sahifa minimum 5 ta qismdan iborat bo'ladi.)</p>
+                        <p>Veb Dizayn: <b>10-15 soatlik mehnat.</b></p>
                     </div>
 
                     <button className="md:mt-10 hidden md:inline-flex glass text-white border-t border-b py-1 px-3 hover:bg-gray-200 rounded text-base">

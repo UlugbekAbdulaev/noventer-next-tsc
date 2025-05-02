@@ -5,7 +5,7 @@ import Image from "next/image";
 
 const Main: React.FC = () => {
   const pictures = [
-    { src: "/images/picture1.png", title: "Boshlanishi", desc: "Biz --- dan ish boshladik va ---- larni oldimizga maqsad qilib qo’ydik" },
+    { src: "/images/picture1.png", title: "Boshlanishi", desc: "Biz --- dan ish boshladik va ---- larni oldimizga maqsad qilib qo'ydik" },
     { src: "/images/picture2.png", title: "Uzoq muddatli loyihalar", desc: "Tajribamiz davomida umumiy hisobda - - loyiha uchun -- - muddatda ishlab topshirdik" },
     { src: "/images/picture3.png", title: "Jamoamiz kengaymoqda", desc: "Jamoamiz safi esa tobora kengaymoqda. Boshida - kishidan boshlangan faoliyatimiz hozirda -- kishi bilan davom etmoqda" },
   ];
@@ -34,7 +34,7 @@ const Main: React.FC = () => {
 
       <div className="px-5 md:px-10 py-5">
         <p className="text-white text-sm md:text-base leading-relaxed">
-          Bu yerda esa yana ko’proq ma’lumotlar berilishi kerak.
+          Bu yerda esa yana ko'proq ma'lumotlar berilishi kerak.
           Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s...
         </p>
       </div>
