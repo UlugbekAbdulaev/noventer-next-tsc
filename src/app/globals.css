@@ -21,16 +21,16 @@
   cursor: pointer;
 }
 
-/* globals.css yoki component CSS faylida */
+
 .shadow-box {
   background: rgba(217, 203, 217, 0.174);
   border-radius: 1rem;
   backdrop-filter: blur(8px);
 
-  /* Ichki va tashqi shadowlarni birlashtirdik */
+ 
   box-shadow:
-    inset 0 0 20px rgba(165, 85, 255, 0.4),  /* ichki soya (fuchsia) */
-    0 0 25px rgba(165, 85, 255, 0.6),        /* tashqi diffuz nur */
-    0 10px 20px rgba(0, 0, 0, 0.2);          /* pastki chuqur soya */
+    inset 0 0 20px rgba(165, 85, 255, 0.4), 
+    0 0 25px rgba(165, 85, 255, 0.6),       
+    0 10px 20px rgba(0, 0, 0, 0.2);          
 }
 
