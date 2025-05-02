@@ -14,9 +14,9 @@ const LandingSection = () => {
                             <li className="flex items-start gap-3">
                                 <span className="text-white text-xl">🔘</span>
                                 <div>
-                                    <p className="font-semibold">Qisqa va ta'sirli</p>
+                                    <p className="font-semibold">Qisqa va ta&apos;sirli</p>
                                     <p className="text-sm text-gray-300 w-60 ">
-                                        Mijozni birinchi qarashda qiziqtiradigan va keyingi qadamga undaydigan muhim ma'lumotlarni taqdim etadi.
+                                        Mijozni birinchi qarashda qiziqtiradigan va keyingi qadamga undaydigan muhim ma&apos;lumotlarni taqdim etadi.
                                     </p>
                                 </div>
                             </li>
@@ -26,7 +26,7 @@ const LandingSection = () => {
                                 <div>
                                     <p className="font-semibold">Maqsadli</p>
                                     <p className="text-sm text-gray-300 w-60">
-                                        Aniq maqsadga yo'naltirilgan bo'lib, mijozni maxsus harakatga undashga xizmat qiladi.
+                                        Aniq maqsadga yo&apos;naltirilgan bo&apos;lib, mijozni maxsus harakatga undashga xizmat qiladi.
                                     </p>
                                 </div>
                             </li>
@@ -36,7 +36,7 @@ const LandingSection = () => {
                                 <div>
                                     <p className="font-semibold">Tez yuklanuvchi</p>
                                     <p className="text-sm text-gray-300 w-60">
-                                        Mijozlarning sabr-toqatiga ta'sir qilmaslik uchun iloji boricha tez yuklanadi.
+                                        Mijozlarning sabr-toqatiga ta&apos;sir qilmaslik uchun iloji boricha tez yuklanadi.
                                     </p>
                                 </div>
                             </li>
@@ -45,7 +45,7 @@ const LandingSection = () => {
 
                     <div className="text-sm text-gray-300 mb-4">
                         <p>Texnik vazifa tayyorlab berish: <b>1 kun</b></p>
-                        <p>Sayt sahifalar soni: <b>1</b> (har bir sahifa minimum 5 ta qismdan iborat bo'ladi.)</p>
+                        <p>Sayt sahifalar soni: <b>1</b> (har bir sahifa minimum 5 ta qismdan iborat bo&apos;ladi.)</p>
                         <p>Veb Dizayn: <b>10-15 soatlik mehnat.</b></p>
                     </div>
 

@@ -40,7 +40,7 @@ const Header: React.FC = () => {
 
             <div className='text-white bg-[#5A00DB] px-5 md:px-15 py-5 text-center md:text-left'>
                 <h1 className='font-bold text-2xl md:text-3xl'>Biz haqimizda</h1>
-                <p className='text-sm md:text-base'>qisqacha ma'lumot</p>
+                <p className='text-sm md:text-base'>qisqacha ma&apos;lumot</p>
             </div>
 
         </div>

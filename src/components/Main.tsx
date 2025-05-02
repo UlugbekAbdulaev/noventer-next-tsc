@@ -34,8 +34,8 @@ const Main: React.FC = () => {
 
       <div className="px-5 md:px-10 py-5">
         <p className="text-white text-sm md:text-base leading-relaxed">
-          Bu yerda esa yana ko'proq ma'lumotlar berilishi kerak.
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s...
+          Bu yerda esa yana ko&apos;proq ma&apos;lumotlar berilishi kerak.
+          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s...
         </p>
       </div>
     </div>
