@@ -1,26 +1,36 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+.imag {
+  background-image: url("/images/comp.png");
+  background-size: contain;
+  background-position: right;
+  background-repeat: no-repeat;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+.glass {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(2px);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+.glass1 {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(3px);
+}
+.hove:hover{
+  background-color: blueviolet;
+  cursor: pointer;
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+/* globals.css yoki component CSS faylida */
+.shadow-box {
+  background: rgba(217, 203, 217, 0.174);
+  border-radius: 1rem;
+  backdrop-filter: blur(8px);
+
+  /* Ichki va tashqi shadowlarni birlashtirdik */
+  box-shadow:
+    inset 0 0 20px rgba(165, 85, 255, 0.4),  /* ichki soya (fuchsia) */
+    0 0 25px rgba(165, 85, 255, 0.6),        /* tashqi diffuz nur */
+    0 10px 20px rgba(0, 0, 0, 0.2);          /* pastki chuqur soya */
 }
+
