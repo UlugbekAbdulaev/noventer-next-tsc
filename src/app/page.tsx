@@ -6,9 +6,9 @@ import Main from "@/components/Main";
 export default function Home() {
   return (
     <div >
-     <Header/>
-        <Main/>
-        <Loyha/>
+      <Header />
+      <Main />
+      <Loyha />
     </div>
   );
 }

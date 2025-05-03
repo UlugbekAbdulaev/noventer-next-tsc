@@ -18,7 +18,7 @@ const Navbar = () => {
                     </div>
 
                     <nav className="hidden md:flex md:items-center text-white">
-                        <Link className="mr-5 hover:text-gray-500 cursor-pointer" href="/about">Bosh sahifa</Link>
+                        <Link className="mr-5 hover:text-gray-500 cursor-pointer" href="/">Bosh sahifa</Link>
                         <Link className="mr-5 hover:text-gray-500 cursor-pointer" href="/portfolio">Portfolio</Link>
                         <Link className="mr-5 hover:text-gray-500 cursor-pointer" href="/servis">Xizmatlar</Link>
                         <a className="mr-5 hover:text-gray-500 cursor-pointer" href="#">Aloqa</a>
@@ -37,7 +37,7 @@ const Navbar = () => {
 
                 {isOpen && (
                     <div className="md:hidden flex flex-col items-center bg-[#0E041D] py-5 text-white">
-                        <Link className="mr-5 hover:text-gray-500 cursor-pointer" href="/about">Bosh sahifa</Link>
+                        <Link className="mr-5 hover:text-gray-500 cursor-pointer" href="/">Bosh sahifa</Link>
                         <Link className="mr-5 hover:text-gray-500 cursor-pointer" href="/portfolio">Portfolio</Link>
                         <Link className="mr-5 hover:text-gray-500 cursor-pointer" href="/servis">Xizmatlar</Link>
                         <button className="glass text-white border-t border-b py-1 px-3 hover:bg-gray-200 rounded text-base mt-3">
