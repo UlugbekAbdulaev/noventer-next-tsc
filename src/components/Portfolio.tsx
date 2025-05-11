@@ -2,16 +2,18 @@
 
 import React from "react";
 import Image from "next/image";
+import { useTranslations } from "next-intl";
 
 const HeroSection: React.FC = () => {
+  const t=useTranslations("portfolio")
   return (
     <div className="bg-[#0E041D] text-white py-20 px-5 md:px-20 flex flex-col md:flex-row items-center justify-between min-h-[90vh] relative">
       <div className="max-w-xl text-center md:text-left z-10">
         <h1 className="text-3xl md:text-5xl font-bold leading-tight">
-          Tajribamiz davomida <br />
-          turli xil hajmdagi <br />
-          <span className="text-purple-500">IT loyihalarini</span> <br />
-          ishga tushira oldik
+          {t("tajriba")} <br />
+          {t("hajm")} <br />
+          <span className="text-purple-500">{t("it")}</span> <br />
+          {t("ish")}
         </h1>
       </div>
 

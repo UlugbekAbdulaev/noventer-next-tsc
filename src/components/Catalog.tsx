@@ -1,14 +1,14 @@
-import { useTranslations } from "next-intl";
+import { useTranslations } from 'next-intl'
+import React from 'react'
 
-
-const LandingSection = () => {
-    const t=useTranslations("landing")
+function Catalog() {
+     const t=useTranslations("catalog")
     return (
         <section className="bg-[#0E041D] py-10 px-5 md:px-16 text-white">
             <div className="max-w-7xl mx-auto flex flex-col md:flex-row bg-[#2B2343]/60 backdrop-blur-md rounded-2xl overflow-hidden shadow-xl border border-white/10">
 
 
-                <div className="w-full md:w-2/3 p-8 md:p-10">
+                <div className="w-full md:w-2/3 p-8 md:p-10 ">
                     <h2 className="text-3xl md:text-4xl font-bold mb-6">{t("land")}</h2>
 
                     
@@ -47,8 +47,8 @@ const LandingSection = () => {
                         </ul>
                     
 
-                    <div className="md:pr-44 text-sm text-gray-300 mb-4">
-                        <p>{t("texnik")}</p>
+                    <div className="text-sm text-gray-300 mb-4 md:pr-44">
+                        <p>{t("texnik")} </p>
                     </div>
 
                     <button className="md:mt-10 hidden md:inline-flex glass text-white border-t border-b py-1 px-3 hover:bg-gray-200 rounded text-base">
@@ -67,7 +67,7 @@ const LandingSection = () => {
             </div>
             
         </section>
-    );
-};
+  )
+}
 
-export default LandingSection;
+export default Catalog

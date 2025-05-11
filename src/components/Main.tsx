@@ -2,12 +2,14 @@
 
 import React from "react";
 import Image from "next/image";
+import { useTranslations } from "next-intl";
 
 const Main: React.FC = () => {
+  const t=useTranslations("main")
   const pictures = [
-    { src: "/images/picture1.png", title: "Boshlanishi", desc: "Biz --- dan ish boshladik va ---- larni oldimizga maqsad qilib qo'ydik" },
-    { src: "/images/picture2.png", title: "Uzoq muddatli loyihalar", desc: "Tajribamiz davomida umumiy hisobda - - loyiha uchun -- - muddatda ishlab topshirdik" },
-    { src: "/images/picture3.png", title: "Jamoamiz kengaymoqda", desc: "Jamoamiz safi esa tobora kengaymoqda. Boshida - kishidan boshlangan faoliyatimiz hozirda -- kishi bilan davom etmoqda" },
+    { src: "/images/picture1.png", title:`${t("bosh")}` , desc: `${t("bosh2")}` },
+    { src: "/images/picture2.png", title:`${t("dan")}` , desc: `${t("dan2")}`},
+    { src: "/images/picture3.png", title: `${t("jam")}`, desc: `${t("jam2")}` }
   ];
 
   return (
@@ -34,8 +36,7 @@ const Main: React.FC = () => {
 
       <div className="px-5 md:px-10 py-5">
         <p className="text-white text-sm md:text-base leading-relaxed">
-          Bu yerda esa yana ko&apos;proq ma&apos;lumotlar berilishi kerak.
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s...
+        {t("lorem")}
         </p>
       </div>
     </div>

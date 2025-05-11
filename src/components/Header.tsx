@@ -2,25 +2,26 @@
 
 import React from "react";
 import Image from "next/image";
+import { useTranslations } from "next-intl";
 
 const Header: React.FC = () => {
+    const t = useTranslations("header")
     const stats = [
-        { icon: "/images/icon/v1.png", title: "7+ yillik", desc: "Umumiy tajriba" },
-        { icon: "/images/icon/v2.png", title: "50+", desc: "Mijozlar" },
-        { icon: "/images/icon/v3.png", title: "100+", desc: "Loyiha" },
-        { icon: "/images/icon/v4.png", title: "24/7", desc: "Qo'llab-quvvatlash" },
+        { icon: "/images/icon/v1.png", title: `${t("yil")}`, desc: `${t("tajriba")}` },
+        { icon: "/images/icon/v2.png", title: "50+", desc: `${t("mijoz")}` },
+        { icon: "/images/icon/v3.png", title: "100+", desc: `${t("loyha")}` },
+        { icon: "/images/icon/v4.png", title: "24/7", desc: `${t("support")}` },
     ];
-
     return (
         <div className='box-border'>
 
             <div className='imag grid grid-cols-1 md:grid-cols-2 bg-[#0E041D] relative w-full lg:min-h-screen px-5 md:px-20'>
                 <div className='text-white text-3xl md:text-[50px] flex flex-col justify-center sm:mb-10 md:mb-[170px] sm:ml-0 md:ml-[50px] lg:ml-0'>
-                    <span className='font-bold'>Yuqori sifatdagi</span>
-                    <span>aniqlikka asoslanib</span>
-                    <span className='text-[#5A00DB]'>istalgan turdagi</span>
-                    <span>dasturlarni tayyorlaymiz</span>
-                    <button className='border text-white text-[16px] md:text-[18px] px-4 py-2 w-44 rounded-lg my-5 bg-[#5A00DB]'>Xizmatlar haqida</button>
+                    <span className='font-bold'>{t("sifat")}</span>
+                    <span>{t("aniq")}</span>
+                    <span className='text-[#5A00DB]'>{t("tur")}</span>
+                    <span>{t("dastur")}</span>
+                    <button className='border text-white text-[16px] md:text-[18px] px-4 py-2 w-44 rounded-lg my-5 bg-[#5A00DB]'>{t("hizmat")}</button>
                 </div>
             </div>
 
@@ -39,8 +40,8 @@ const Header: React.FC = () => {
             </div>
 
             <div className='text-white bg-[#5A00DB] px-5 md:px-15 py-5 text-center md:text-left'>
-                <h1 className='font-bold text-2xl md:text-3xl'>Biz haqimizda</h1>
-                <p className='text-sm md:text-base'>qisqacha ma&apos;lumot</p>
+                <h1 className='font-bold text-2xl md:text-3xl'>{t("xaqimizda")}</h1>
+                <p className='text-sm md:text-base'>{t("qisqa")}</p>
             </div>
 
         </div>

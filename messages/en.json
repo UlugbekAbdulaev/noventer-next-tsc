@@ -1,0 +1,121 @@
+{
+    "footer": {
+        "aloqa": "Contact Us",
+        "loyha": "Let’s discuss in detail how to implement your project",
+        "jamoa": "About our team",
+        "consult": "Free consultation",
+        "consult2": "Leave your information for a free initial consultation on your project.",
+        "send": "Shipping",
+        "raqam":"Phone number",
+        "ism":"Name"
+    },
+    "navbar": {
+        "home": "Home",
+        "Portfolio": "Portfolio",
+        "Xizmat": "Servis",
+        "aloqa": "Contact Us",
+        "loyha": "Project?"
+    },
+    "header": {
+        "sifat": "High quality",
+        "aniq": "based on accuracy",
+        "tur": "any type",
+        "dastur": "we prepare programs",
+        "hizmat": "About servis",
+        "xaqimizda": "About Us",
+        "qisqa": "brief information",
+        "yil": "7+ Years",
+        "tajriba": "General experience",
+        "mijoz": "Clients",
+        "loyha": "Project",
+        "support": "Support"
+    },
+    "main": {
+        "lorem": "More information needs to be provided here. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s...",
+        "bosh": "The beginning",
+        "bosh2": "We started with --- and set ---- as our goal.",
+        "dan": "Long-term projects",
+        "dan2": "During our experience, we have delivered a total of - - projects in -- - time frame",
+        "jam": "Jamoamiz kengaymoqda",
+        "jam2": "Our team is growing. Our work, which started with one person, is now continuing with one person"
+    },
+    "loyhalarimiz": {
+        "loy": "Our Projects",
+        "tour": "Tourmand Project",
+        "tour2": "Tourmad - This website was developed to develop domestic tourism in Uzbekistan...",
+        "turlar": "Services Types",
+        "turlar2": "The most popular types of services in the programming field are:",
+        "land": "Landing pages",
+        "land2": "Short, impactful, and targeted pages designed to encourage customers to take a specific action.",
+        "biz": "Let them talk about us!",
+        "project": "Wiew project",
+        "boshqa": "View other projects"
+    },
+    "portfolio": {
+        "tajriba": "During our experience",
+        "hajm": "of different sizes",
+        "it": "of different sizes",
+        "ish": "we were able to launch"
+    },
+    "servis": {
+        "turi": "Each type of service",
+        "mijoz": "for each customer",
+        "alohida": "is particularly important",
+        "deb": "Let's approach it!"
+    },
+    "landing": {
+        "land": "Landing pages",
+        "tasir": "Short and effective",
+        "qadam": "It provides important information that interests the customer at first glance and encourages them to take the next step.",
+        "maqsad": "Purposeful",
+        "aniq": "It is focused on a specific goal and serves to motivate the customer to take a specific action.",
+        "tez": "Fast loading",
+        "sabr": "It loads as quickly as possible to avoid affecting customer patience.",
+        "texnik": "Technical task preparation: 1 day Number of site pages: 1 (each page will consist of at least 5 sections.) Web Design: 10-15 hours of work. ",
+        "buyurtma": "Place an order"
+    },
+    "catalog": {
+        "land": "Catalog pages",
+        "tasir": "Short and effective",
+        "qadam": "It provides important information that interests the customer at first glance and encourages them to take the next step.",
+        "maqsad": "Purposeful",
+        "aniq": "It is focused on a specific goal and serves to motivate the customer to take a specific action.",
+        "tez": "Fast loading",
+        "sabr": "It loads as quickly as possible to avoid affecting customer patience.",
+        "texnik": "Technical task preparation: 1 day Number of site pages: 1 (each page will consist of at least 5 sections.) Web Design: 10-15 hours of work. Price: $100 ",
+        "buyurtma": "Place an order"
+    },
+    "commer": {
+        "land": "eCommer pages",
+        "tasir": "Short and effective",
+        "qadam": "It provides important information that interests the customer at first glance and encourages them to take the next step.",
+        "maqsad": "Purposeful",
+        "aniq": "It is focused on a specific goal and serves to motivate the customer to take a specific action.",
+        "tez": "Fast loading",
+        "sabr": "It loads as quickly as possible to avoid affecting customer patience.",
+        "texnik": "Technical task preparation: 3-4 days Number of site pages: each page will consist of at least 5 sections. Web Design: 7-10 days of work. Price: $200-300",
+        "buyurtma": "Place an order"
+    },
+    "crm": {
+        "land": "CRM pages",
+        "tasir": "Short and effective",
+        "qadam": "It provides important information that interests the customer at first glance and encourages them to take the next step.",
+        "maqsad": "Purposeful",
+        "aniq": "It is focused on a specific goal and serves to motivate the customer to take a specific action.",
+        "tez": "Fast loading",
+        "sabr": "It loads as quickly as possible to avoid affecting customer patience.",
+        "texnik": "Technical task preparation: 3-4 days Number of site pages: each page will consist of at least 5 sections. Web Design: 7-10 days of work. Price: $200-300",
+        "buyurtma": "Place an order"
+    },
+    "erp": {
+        "land": "ERP pages",
+        "tasir": "Short and effective",
+        "qadam": "It provides important information that interests the customer at first glance and encourages them to take the next step.",
+        "maqsad": "Purposeful",
+        "aniq": "It is focused on a specific goal and serves to motivate the customer to take a specific action.",
+        "tez": "Fast loading",
+        "sabr": "It loads as quickly as possible to avoid affecting customer patience.",
+        "texnik": "Technical task preparation: 5-10 days Number of website pages: 10 or more Web Design: 7-10 days of work. Price: $300-500",
+        "buyurtma": "Place an order"
+    }
+}

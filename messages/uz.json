@@ -1,0 +1,121 @@
+{
+    "footer": {
+        "aloqa": "Biz bilan aloqa",
+        "loyha": " Loyihangizni qanday realizatsiya qilish haqida batafsil suhbatlashamiz",
+        "jamoa": "Bizning jamoa haqida",
+        "consult": "Bepul konsultatsiya",
+        "consult2": "Loyihangiz bo'yicha boshlang'ich bepul konsultatsiya uchun ma'lumotingizni qoldiring.",
+        "send": "Jo'natish",
+        "raqam":"Telefon raqamingiz",
+        "ism":"Ismingiz"
+    },
+    "navbar": {
+        "home": "Bosh sahifa",
+        "Portfolio": "Portfel",
+        "Xizmat": "Xizmatlar",
+        "aloqa": "Aloqa",
+        "loyha": "Loyha bormi?"
+    },
+    "header": {
+        "sifat": "Yuqori sifatdagi",
+        "aniq": "aniqlikka asoslanib",
+        "tur": "istalgan turdagi",
+        "dastur": "dasturlarni tayyorlaymiz",
+        "hizmat": "Xizmatlar xaqida",
+        "xaqimizda": "Biz xaqimizda",
+        "qisqa": "Qisqacha ma'lumot",
+        "yil": "7+ yillik",
+        "tajriba": "Umumiy tajriba",
+        "mijoz": "Mijozlar",
+        "loyha": "Loyha",
+        "support": "Qo'llab quvvatlash"
+    },
+    "main": {
+        "lorem": "Bu yerda esa yana ko'proq ma'lumotlar berilish kerak. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s...",
+        "bosh": "Boshlanishi",
+        "bosh2": "Biz --- dan ish boshladik va ---- larni oldimizga maqsad qilib qo'ydik",
+        "dan": "Uzoq muddatli loyihalar",
+        "dan2": "Tajribamiz davomida umumiy hisobda - - loyiha uchun -- - muddatda ishlab topshirdik",
+        "jam": "Our team is expanding",
+        "jam2": "Jamoamiz safi esa tobora kengaymoqda. Boshida - kishidan boshlangan faoliyatimiz hozirda -- kishi bilan davom etmoqda"
+    },
+    "loyhalarimiz": {
+        "loy": "Loyhalarimiz",
+        "tour": "Tourmand Loyhasi",
+        "tour2": "Tourmad - O'zbekistonning ichki turizmini rivojlantirish maqsadida ishlab chiqilgan bu web sayt...",
+        "turlar": "Xizmat turlari",
+        "turlar2": "Dasturlash sohasidagi eng talabgir xizmat turlaridan quyidagilar:",
+        "land": "Landing saxifalar",
+        "land2": " Qisqa, ta'sirli va maqsadli sahifalar, mijozlarni alohida harakatga undash uchun mo'ljallangan.",
+        "biz": "Biz haqimizda gapirsin!",
+        "project": "Loyihani ko'rish",
+        "boshqa": "Boshqa loyhalarni ko'rish"
+    },
+    "portfolio": {
+        "tajriba": "Tajribamiz davomida",
+        "hajm": "turli xil hajmdagi",
+        "it": "IT loyihalarini",
+        "ish": "ishga tushira oldik"
+    },
+    "servis": {
+        "turi": "Har bir xizmat turini",
+        "mijoz": "har bir mijoz uchun",
+        "alohida": "alohida ahamiyatli",
+        "deb": " deb yondoshamiz!"
+    },
+    "landing": {
+        "land": "Landing sahifalar",
+        "tasir": "Qisqa va ta'sirli",
+        "qadam": " Mijozni birinchi qarashda qiziqtiradigan va keyingi qadamga undaydigan muhim ma'lumotlarni taqdim etadi.",
+        "maqsad": "Maqsadli",
+        "aniq": "Aniq maqsadga yo'naltirilgan bo'lib, mijozni maxsus harakatga undashga xizmat qiladi.",
+        "tez": "Tez yuklanuvchi",
+        "sabr": "Mijozlarning sabr-toqatiga ta'sir qilmaslik uchun iloji boricha tez yuklanadi.",
+        "texnik": "Texnik vazifa tayyorlab berish: 1 kun Sayt sahifalar soni: 1 (har bir sahifa minimum 5 ta qismdan iborat bo’ladi.) Veb Dizayn: 10-15 soatlik mehnat.",
+        "buyurtma": "Buyurtma berish"
+    },
+    "catalog": {
+        "land": "Katalog sahifalari",
+        "tasir": "Mahsulotlar tavsifi",
+        "qadam": "Har bir mahsulotning batafsil tavsifi, xususiyatlari, afzalliklari va rasmlari bilan berilgan",
+        "maqsad": "Turli filtrlar",
+        "aniq": "Mijozlarning qidirishni osonlashtirish uchun turli xil filtrlar va saralash imkoniyatlari taqdim etiladi.",
+        "tez": "Navigatsiya",
+        "sabr": "Katalog bo'ylab oson va intuitiv harakatlanish uchun qulay navigatsiya tizimi yaratilgan.",
+        "texnik": "Texnik vazifa tayyorlab berish: 1 kun Sayt sahifalar soni: 1 (har bir sahifa minimum 5 ta qismdan iborat bo’ladi.) Veb Dizayn: 10-15 soatlik mehnat. Narxi: $100",
+        "buyurtma": "Buyurtma berish"
+    },
+    "commer": {
+        "land": "eCommer sahifalari",
+        "tasir": "Mahsulotlar tavsifi",
+        "qadam": "Har bir mahsulotning batafsil tavsifi, xususiyatlari, afzalliklari va rasmlari bilan berilgan",
+        "maqsad": "Turli filtrlar",
+        "aniq": "Mijozlarning qidirishni osonlashtirish uchun turli xil filtrlar va saralash imkoniyatlari taqdim etiladi.",
+        "tez": "Navigatsiya",
+        "sabr": "Katalog bo'ylab oson va intuitiv harakatlanish uchun qulay navigatsiya tizimi yaratilgan.",
+        "texnik": "Texnik vazifa tayyorlab berish: 3-4 kun Sayt sahifalar soni: har bir sahifa minimum 5 ta qismdan iborat bo’ladi. Veb Dizayn: 7-10 kun mehnat. Narxi: $200-300",
+        "buyurtma": "Buyurtma berish"
+    },
+    "crm": {
+        "land": "CRM sahifalari",
+        "tasir": "Mahsulotlar tavsifi",
+        "qadam": "Har bir mahsulotning batafsil tavsifi, xususiyatlari, afzalliklari va rasmlari bilan berilgan",
+        "maqsad": "Turli filtrlar",
+        "aniq": "Mijozlarning qidirishni osonlashtirish uchun turli xil filtrlar va saralash imkoniyatlari taqdim etiladi.",
+        "tez": "Navigatsiya",
+        "sabr": "Katalog bo'ylab oson va intuitiv harakatlanish uchun qulay navigatsiya tizimi yaratilgan.",
+        "texnik": "Texnik vazifa tayyorlab berish: 3-4 kun Sayt sahifalar soni: har bir sahifa minimum 5 ta qismdan iborat bo’ladi. Veb Dizayn: 7-10 kun mehnat. Narxi: $200-300",
+        "buyurtma": "Buyurtma berish"
+    },
+    "erp": {
+        "land": "ERP sahifalari",
+        "tasir": "Mahsulotlar tavsifi",
+        "qadam": "Har bir mahsulotning batafsil tavsifi, xususiyatlari, afzalliklari va rasmlari bilan berilgan",
+        "maqsad": "Turli filtrlar",
+        "aniq": "Mijozlarning qidirishni osonlashtirish uchun turli xil filtrlar va saralash imkoniyatlari taqdim etiladi.",
+        "tez": "Navigatsiya",
+        "sabr": "Katalog bo'ylab oson va intuitiv harakatlanish uchun qulay navigatsiya tizimi yaratilgan.",
+        "texnik": "Texnik vazifa tayyorlab berish: 5-10 kun Sayt sahifalar soni: 10 yoki undan yuqori Veb Dizayn: 7-10 kun mehnat. Narxi: $300-500",
+        "buyurtma": "Buyurtma berish"
+    }
+}
